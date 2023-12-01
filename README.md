@@ -7,4 +7,4 @@ Da Rold, L., Epele, M., Medina, A. et al. Enhancement of the double Higgs produc
 
 Directories contain Feynarts and UFO models to be used under FeynCalc/FeynArts and MadGraph5_aMC@NLO.
 
-The parametrization of the UFO model is definde setting the gauge coupling constants $\lam_1$, $\lam_2$ and $\lam_3$, the masses of the physical fields $m_{\chi^u_1}$, $m_{\chi^u_2}$, $m_{\chi^d_1}$, $m_{\chi^d_2}$,  and $\sin(\theta_u)$ as external parameters.  In the code, this paramters are denoted by lam1, lam2, lam3, Mu1, Mu2, Md1, Md2 and sTu, respectively. The remaining paramters are internally computed from the following set of equations:
+The parametrization of the UFO model is definde setting the gauge coupling constants $\lamda_1$, $\lamda_2$ and $\lamda_3$, the masses of the physical fields $m_{\chi^u_1}$, $m_{\chi^u_2}$, $m_{\chi^d_1}$, $m_{\chi^d_2}$,  and $\sin(\theta_u)$ as external parameters.  In the code, this paramters are denoted by lam1, lam2, lam3, Mu1, Mu2, Md1, Md2 and sTu, respectively. The remaining paramters are internally computed from the following set of equations:
