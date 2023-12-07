@@ -1,7 +1,7 @@
 # SM_LQs
 Computational tools to implement a particle physics model that involves four new scalar leptoquark fields $\chi^u_1$, $\chi^u_2$, $\chi^d_1$ and $\chi^d_2$ and their interactions to the gauge bosons of the Standard Model. The details of the model are discussed in:
 
-- Da Rold, L., Epele, M., Medina, A. et al. Enhancement of the double Higgs production via leptoquarks at the LHC. J. High Energ. Phys. 2021, 100 (2021). arXiv:2105.06309
+- L. Da Rold, M. Epele, A. Medina, N. I. Mileo and A. Szynkman, Enhancement of the double Higgs production via leptoquarks at the LHC, JHEP 08 (2021) 100 [2105.06309]
 
 This tools were developes by making use of:
 
