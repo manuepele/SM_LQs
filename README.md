@@ -1,9 +1,9 @@
 # SM_LQs
-Computational tools to implement a particle physics model that involves four new scalar leptoquark fields $\chi^u_1$, $\chi^u_2$, $\chi^d_1$ and $\chi^d_2$ and their interactions to the gauge bosons of the Standard Model. The details of the model are discussed in:
+Computational tools to implement a particle physics model that involves four new scalar leptoquark fields $\chi^u_1$, $\chi^u_2$, $\chi^d_1$ and $\chi^d_2$ and their interactions to the gauge bosons of the Standard Model. Currently, none of the tools include the interaction of leptoquarks to fermions and only cover the case with $\lambda_1' = 0$. For further details on the model see the reference:
 
 - L. Da Rold, M. Epele, A. Medina, N. I. Mileo and A. Szynkman, Enhancement of the double Higgs production via leptoquarks at the LHC, JHEP 08 (2021) 100 [2105.06309]
 
-This tools were developes by making use of:
+These tools were developed by making use of:
 
 - **Feynrules:**
   * C. Degrande, C. Duhr, B. Fuks, D. Grellscheid, O. Mattelaer and T. Reiter, UFO - The Universal FeynRules Output, Comput. Phys. Commun. 183 (2012) 1201 [1108.2040].
